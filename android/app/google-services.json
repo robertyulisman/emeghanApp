@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523297768506",
+    "project_id": "e-meghan",
+    "storage_bucket": "e-meghan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523297768506:android:ddc74c9bda206573e26103",
+        "android_client_info": {
+          "package_name": "com.e_meghan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523297768506-rckbfk1llaft10b64ob2c7fsdqji92ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEl16XY-x6FgxCmZOANJFR_B8TKzA1Zs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523297768506-rckbfk1llaft10b64ob2c7fsdqji92ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

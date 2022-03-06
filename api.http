@@ -1,0 +1,6 @@
+@API_URL_DEV = http://localhost:5000
+# @API_URL_PROD = http://localhost:5000
+
+# user
+GET {{API_URL_DEV}}/api/siswa
+# GET {{API_URL_DEV}}/api/siswa/620261ac5632632824270361
